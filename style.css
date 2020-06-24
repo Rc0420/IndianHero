@@ -1,0 +1,44 @@
+body{
+    font-family: 'Podkova', serif;
+}
+.header
+{   height:90vh;
+    width:100%;
+    color:white;
+    background:linear-gradient(to right ,rgba(197, 101, 37, 0.6),rgba(37, 187, 32, 0.6)),url("img/army.jpg");
+    background-size:cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+     background-position: center center;
+}
+.container .flag
+{
+    height:auto;
+    width:60px;
+    margin-right:5px;
+    border-radius: 75%;
+}
+.h-100
+{
+    width:100%;
+    height:100%;
+}
+.tribute
+{   
+    margin-top:40px; 
+    background:linear-gradient(to right ,rgba(197, 101, 37),rgba(255,255,255),rgba(37, 187, 32));
+    border-radius: 3%;
+}
+.contact
+{
+    background:linear-gradient(to right ,rgba(197, 101, 37, 0.6),rgba(37, 187, 32, 0.6));
+    margin-bottom:-50px;
+}
+.social a i
+{
+  
+   margin-left:200px;
+   margin-right:200px; 
+   font-size:40px;
+
+}
