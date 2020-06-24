@@ -7,9 +7,6 @@ body{
     color:white;
     background:linear-gradient(to right ,rgba(197, 101, 37, 0.6),rgba(37, 187, 32, 0.6)),url("img/army.jpg");
     background-size:cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-     background-position: center center;
 }
 .container .flag
 {
@@ -32,7 +29,6 @@ body{
 .contact
 {
     background:linear-gradient(to right ,rgba(197, 101, 37, 0.6),rgba(37, 187, 32, 0.6));
-    margin-bottom:-50px;
 }
 .social a i
 {
